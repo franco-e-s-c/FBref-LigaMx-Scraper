@@ -1,4 +1,4 @@
-#Scrape LigaMX FBref data
+# Scrape LigaMX FBref data
 
 Code for regular season table comes from: https://github.com/chmartin/FBref_EPL
 I've only modified a thing or two to get it working with the apertura and clausura format
