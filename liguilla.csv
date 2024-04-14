@@ -1,0 +1,26 @@
+﻿,Instance,Match Date,Home Team,Result,Away Team,Note,Winner
+0,Reclassification,Final,UANL,2–0,Necaxa,UANL  won match in normal time and advance to Quarter-finals.,UANL
+1,Reclassification,Final,Cruz Azul,1–0,León,Cruz Azul  won match in normal time and advance to Quarter-finals.,Cruz Azul
+2,Reclassification,Final,Toluca,3–0,FC Juárez,Toluca  won match in normal time and advance to Quarter-finals.,Toluca
+3,Reclassification,Final,Puebla,1–1,Guadalajara,Puebla  won on penalty kicks following extra time and advance to Quarter-finals.,Puebla
+4,Quarter-finals,,Santos,4–6,Toluca,Toluca  won on aggregate score over two legs and advance to Semi-finals.,Toluca
+5,First Leg,Oct 13,Toluca,4–3,Santos,,Toluca
+6,Second Leg,Oct 16,Santos,1–2,Toluca,,Toluca
+7,Quarter-finals,,Pachuca,2–2,UANL,"UANL  won on away goals, after aggregate score was tied and advance to Semi-finals.",UANL
+8,First Leg,Oct 13,UANL,1–0,Pachuca,,UANL
+9,Second Leg,Oct 16,Pachuca,2–1,UANL,,Pachuca
+10,Quarter-finals,,Monterrey,3–0,Cruz Azul,Monterrey  won on aggregate score over two legs and advance to Semi-finals.,Monterrey
+11,First Leg,Oct 12,Cruz Azul,0–0,Monterrey,,Draw
+12,Second Leg,Oct 15,Monterrey,3–0,Cruz Azul,,Monterrey
+13,Quarter-finals,,América,11–2,Puebla,América  won on aggregate score over two legs and advance to Semi-finals.,América
+14,First Leg,Oct 12,Puebla,1–6,América,,América
+15,Second Leg,Oct 15,América,5–1,Puebla,,América
+16,Semi-finals,,América,2–3,Toluca,Toluca  won on aggregate score over two legs and advance to Finals.,Toluca
+17,First Leg,Oct 19,Toluca,2–1,América,,Toluca
+18,Second Leg,Oct 22,América,1–1,Toluca,,Draw
+19,Semi-finals,,Monterrey,2–6,Pachuca,Pachuca  won on aggregate score over two legs and advance to Finals.,Pachuca
+20,First Leg,Oct 20,Pachuca,5–2,Monterrey,,Pachuca
+21,Second Leg,Oct 23,Monterrey,0–1,Pachuca,,Pachuca
+22,Finals,,Pachuca,8–2,Toluca,Pachuca  won on aggregate score over two legs.,Pachuca
+23,First Leg,Oct 27,Toluca,1–5,Pachuca,,Pachuca
+24,Second Leg,Oct 30,Pachuca,3–1,Toluca,,Pachuca
